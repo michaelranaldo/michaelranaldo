@@ -6,4 +6,4 @@ Have a look through my repositories for tooling I've developed or my previous wo
 
 Check out my site at [https://ranaldo.co.uk](ranaldo.co.uk).
 
-I'm open to collaboration or questions, and I might even be helpful.
+I'm open to collaboration or questions and I might even be helpful.
