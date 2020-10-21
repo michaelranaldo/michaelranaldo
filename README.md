@@ -1,6 +1,6 @@
 # Michael Ranaldo
 
-I am a penetration tester currently working at MDSec helping secure companies across the UK and beyond!
+I am a security consultant who helps stop companies being not secure.
 
 Have a look through my repositories for tooling I've developed or my previous work.
 
